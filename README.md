@@ -1,4 +1,3 @@
-```markdown
 LUSH COSMETICS — PHP Shopping Cart
 
 A simple PHP + MySQL e-commerce demo for a cosmetics store. This app includes product browsing, category filtering, cart management, checkout flow, user authentication, and order processing.
