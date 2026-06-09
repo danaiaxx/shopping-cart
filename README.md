@@ -3,7 +3,7 @@
 
 A simple PHP + MySQL e-commerce demo for a cosmetics store. This app includes product browsing, category filtering, cart management, checkout flow, user authentication, and order processing.
 
-## Features
+Features
 
 - Home page with featured products and categories
 - Product browsing and category filters
@@ -14,14 +14,14 @@ A simple PHP + MySQL e-commerce demo for a cosmetics store. This app includes pr
 - Order placement and success confirmation
 - MySQL-backed product, user, cart, and order data
 
-## Tech Stack
+Tech Stack
 
 - PHP
 - MySQL / MariaDB
 - HTML, CSS
 - Procedural PHP code with reusable includes
 
-## Project Structure
+Project Structure
 
 - `index.php` — home page
 - `shop.php` — product listing / category filters
@@ -37,13 +37,13 @@ A simple PHP + MySQL e-commerce demo for a cosmetics store. This app includes pr
 
 ## Local Setup
 
-### Requirements
+Requirements
 
 - PHP 7.4+ or newer
 - MySQL / MariaDB
 - Local web server (XAMPP, WAMP, MAMP, etc.)
 
-### Steps
+Steps
 
 1. Clone or download the repository into your web server folder
    - Example: `C:\xampp\htdocs\shopping-cart`
@@ -79,7 +79,7 @@ if ($conn->connect_error) {
 6. Visit the app
    - `http://localhost/shopping-cart`
 
-## Usage
+Usage
 
 - Browse products
 - Register or log in
