@@ -1,5 +1,5 @@
 ```markdown
-# LUSH COSMETICS — PHP Shopping Cart
+LUSH COSMETICS — PHP Shopping Cart
 
 A simple PHP + MySQL e-commerce demo for a cosmetics store. This app includes product browsing, category filtering, cart management, checkout flow, user authentication, and order processing.
 
@@ -35,7 +35,7 @@ Project Structure
 - `db_connect.php` — database connection
 - `shopping.sql` — schema / initial database import
 
-## Local Setup
+Local Setup
 
 Requirements
 
